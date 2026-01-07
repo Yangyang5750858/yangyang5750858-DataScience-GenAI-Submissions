@@ -17,5 +17,7 @@ This repository contains all assignment notebooks, data analysis, and code devel
 - [Assignment 5.3: Fundamental Math for Deep Learning](./Assignment_5/6_X_fundamental_math_for_DL.ipynb)<br><br>
                
 - [Assignment 5: Convolutional Neural Networks](./Assignment_6/7_01_convolutional_neural_networks.ipynb)<br><br>
+
+- [Assignment Optional: Loan Default Prediction](./Assignment_Optional/ML_lendingclub_YANGYANG_CHEN.ipynb)
                
 These works are released under the MIT License.
