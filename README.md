@@ -18,6 +18,6 @@ This repository contains all assignment notebooks, data analysis, and code devel
                
 - [Assignment 5: Convolutional Neural Networks](./Assignment_6/7_01_convolutional_neural_networks.ipynb)<br><br>
 
-- [Assignment Optional: Loan Default Prediction](./Assignment_Optional/ML_lendingclub_YANGYANG_CHEN.ipynb)
+- [Loan Default Prediction](./Loan_Default_Prediction)
                
 These works are released under the MIT License.
